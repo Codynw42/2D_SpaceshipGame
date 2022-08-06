@@ -113,6 +113,11 @@ def draw_winner(text):
 
 
 
+def jls_extract_def():
+    #you must use this code to be able to press multiple keys at a time.
+    return 
+
+
 def main ():            #this is the main game while loop
     red = pygame.Rect(700, 300, SPACESHIP_WIDTH, SPACESHIP_HEIGHT)    #These define where the spaceship is, ((X, Y, Width, Height) of the object))
     yellow = pygame.Rect(100, 300, SPACESHIP_WIDTH, SPACESHIP_HEIGHT)   #we already have width/heigth as a variable so we can use that here.
@@ -165,7 +170,7 @@ def main ():            #this is the main game while loop
 
 
 
-        keys_pressed = pygame.key.get_pressed() #you must use this code to be able to press multiple keys at a time.
+        keys_pressed = pygame.key.get_pressed() #you must use this code to be able to press multiple keys at a time. = jls_extract_def()
         yellow_handle_movement(keys_pressed, yellow)
         red_handle_movement(keys_pressed, red)
         
