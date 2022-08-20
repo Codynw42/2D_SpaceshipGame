@@ -4,3 +4,4 @@
 # Needs secondary weapon
 # add shields
 # add pause menu
+# add ammo count visuals
