@@ -11,3 +11,4 @@
 #  Multiple spaceship colors
 #  different backgrounds/maps
 # add background music
+# add mini ships
