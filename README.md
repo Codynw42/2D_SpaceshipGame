@@ -20,3 +20,4 @@
 # main boss
 # LEVEL SELECTOR
 # options menu
+# exit button
