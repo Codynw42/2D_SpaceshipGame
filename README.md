@@ -21,3 +21,4 @@
 # LEVEL SELECTOR
 # options menu
 # exit button
+# rez option
