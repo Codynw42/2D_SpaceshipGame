@@ -24,3 +24,4 @@
 # rez option
 #FIJOFJ
 #make a new game
+#seriousy. stop
