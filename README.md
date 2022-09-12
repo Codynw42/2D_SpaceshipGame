@@ -23,3 +23,4 @@
 # exit button
 # rez option
 #FIJOFJ
+#make a new game
