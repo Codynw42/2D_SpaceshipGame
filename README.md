@@ -30,3 +30,4 @@
 #box3
 #box4
 #box5
+#box6
